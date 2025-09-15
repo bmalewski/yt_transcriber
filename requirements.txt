@@ -14,3 +14,7 @@ git+https://github.com/openai/whisper.git
 # Eksport plików
 python-docx
 srt
+
+# Inne
+tbb
+tensorboard
