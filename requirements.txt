@@ -6,3 +6,4 @@ python-docx
 requests
 uvicorn
 fastapi
+python-multipart
